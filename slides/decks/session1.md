@@ -54,7 +54,7 @@ João B. Sousa · Nova SBE
 
 ## Before any of that — what is an AI agent?
 
-<p class="wide">Not a chat box. Not a smarter autocomplete. A program that lets a language model read your files, run commands, and edit code — under your permission.</p>
+<p class="wide">Not a smarter autocomplete. A program that lets a language model read your files, run commands, and edit code — under your permission.</p>
 
 ---
 
